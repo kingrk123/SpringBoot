@@ -1,0 +1,14 @@
+my:
+  app:
+    pinfo:
+      pid: 101
+      pcode: NITNEW
+      pversion: 5.5
+      modules:
+      - A
+      - B
+      - C
+      codes:
+        a1: b1
+        a2: b2
+        a3: b3

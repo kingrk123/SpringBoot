@@ -1,0 +1,7 @@
+my:
+  app:
+     id: 850
+     name-info: NITAPP
+     version-data: 3.2
+     status_enabled: false
+
